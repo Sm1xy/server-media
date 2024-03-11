@@ -9,7 +9,8 @@
       "web_shop": "https://store.primeblocks.net",
       "web_support": "https://wiki.primeblocks.net",
       "discord": "https://discord.gg/primeblocks",
-      "youtube": "https://youtube.com/@primeblocksserver"
+      "youtube": "https://youtube.com/@primeblocksserver",
+      "voting": "https://minecraft-server.eu/vote/index/22C0D", 
     },
     "gamemodes": {
       "citybuild": {
